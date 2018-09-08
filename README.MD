@@ -2,6 +2,7 @@
 
 Apollo GraphQL server with Express On Google Cloud Platform (GCP) Function (not Firebase Function) using Serverless for deployment
 
+Related Article: https://codeburst.io/apollo-graphql-server-express-google-cloud-function-serverless-framework-dbb6b5cf4bb3
 
 ## Important - Babel
 
